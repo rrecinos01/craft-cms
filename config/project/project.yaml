@@ -1,0 +1,22 @@
+dateModified: 1698621651
+email:
+  fromEmail: support@ipetik.com
+  fromName: ipetik-website-craft
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    8d80ff48-fee2-4824-870d-2006f878dd9b: ipetik-website-craft # ipetik-website-craft
+    d955f1f0-c077-476f-aa8b-806efb24374b: Common # Common
+    ff0b0961-2ba0-4047-a169-ff5d214c91a3: ipetik-website-craft # ipetik-website-craft
+system:
+  edition: solo
+  live: true
+  name: ipetik-website-craft
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
